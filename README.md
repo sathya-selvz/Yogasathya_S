@@ -1,4 +1,5 @@
-![MasterHead](https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif)
+![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanattzz&label=Profile%20views&color=0e75b6&style=flat" alt="suryanattzz" /> </p>
@@ -16,9 +17,10 @@
 
 ## 🛠 Skills
 
-- *Programming Languages:* Python,HTML,CSS.
-- *Data Technologies:* SQL, Flask, Machine Learning.
-- *Databases:* MySQL, MongoDB
+-🐍 Python (scripting, automation, and backend)
+- 🌐 Web Development (HTML, CSS, JavaScript)
+- 🗄️ Databases (SQLite, MySQL basics)
+- 🎯 Always exploring new tools and frameworks
 - *Version Control:* Git
 
 ## 📚 Learning
@@ -26,6 +28,8 @@
 I'm actively learning and exploring topics such as:
 
 - Advanced Python for Data Science
+- Flask / Django for web backend
+- JavaScript frameworks like React
 - Machine Learning Algorithms
 - Deep Learning models
 
@@ -33,7 +37,7 @@ I'm actively learning and exploring topics such as:
 
 Here are a few projects I've worked on:
 
-- [Flask Keylogger App](https://github.com/sathya-selvz/Flask-Keylogger-Web-App)- Simple Bank App application using python and flask.
+- [Flask Keylogger App](https://github.com/sathya-selvz/Flask-Keylogger-Web-App)- Simple keylogger application using Python and Flask
 
 ## 📫 Connect with Me
 
@@ -44,6 +48,6 @@ Let's connect! Feel free to reach out for collaboration, discussions, or just to
 
 ## 🙏 Acknowledgments
 
-I'm grateful for the support and mentorship I've received from the data engineering comm unity.
+I'm grateful for the support and mentorship I've received from the data engineering community.
 
 Looking forward to exciting opportunities in the world of data engineering!
