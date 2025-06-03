@@ -36,6 +36,7 @@ I'm actively learning and exploring topics such as:
 Here are a few projects I've worked on:
 
 - [Flask Keylogger App](https://github.com/sathya-selvz/Flask-Keylogger-Web-App)- Simple keylogger application using Python and Flask
+- [Library Management System](https://github.com/sathya-selvz/Library-Management-System---Python.git)-Library Management System using Python and SQlite3
 
 ## 📫 Connect with Me
 
