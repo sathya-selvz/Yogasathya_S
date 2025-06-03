@@ -1,7 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)
-
-
-
+![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanattzz&label=Profile%20views&color=0e75b6&style=flat" alt="suryanattzz" /> </p>
 
