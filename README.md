@@ -1,5 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/users/926537/screenshots/4502924/workspace.gif)
-
+![MasterHead](https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suryanattzz&label=Profile%20views&color=0e75b6&style=flat" alt="suryanattzz" /> </p>
 
